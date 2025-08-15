@@ -24,7 +24,6 @@ An integrated pipeline from data ingestion to insightful reporting.
 
 ![Solution Architecture](https://github.com/naveen12334/Global-Earthquake-Tracker/blob/main/Solution%20Architecture/Architecture.png)
 
-
 🗄 ***Data Source***
 
 💾 *Website Feeds* – Global earthquake data sourced from public APIs and online datasets.
