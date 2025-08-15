@@ -28,7 +28,7 @@ An integrated pipeline from data ingestion to insightful reporting.
 
 💾 *Website Feeds* – Global earthquake data sourced from public APIs and online datasets.
 
-*Website Link* - ![Website Link](https://earthquake.usgs.gov/fdsnws/event/1/#parameters)
+**Website Link** – [Earthquake API](https://earthquake.usgs.gov/fdsnws/event/1/#parameters) 
 
 
 📥 ***Lakehouse*** – Central storage for raw earthquake event logs before transformation.
@@ -47,7 +47,7 @@ An integrated pipeline from data ingestion to insightful reporting.
 
 🛠 *Python & Spark* – Clean, enrich, and standardize earthquake data for analytical use.
 
-![Data Transformation](https://github.com/naveen12334/Global-Earthquake-Tracker/blob/main/Pyspark%20Notebooks/Data%20Transformation/Data%20Transformation.ipynb)
+![Data Transformation](https://github.com/naveen12334/Global-Earthquake-Tracker/blob/main/Pyspark%20Notebooks/Data%20Transformation/Data%20Trasnformation.png)
 
 
 🏭 ***Data Loading***
@@ -69,6 +69,7 @@ An integrated pipeline from data ingestion to insightful reporting.
 
 
 ![Pipeline Scheduling](https://github.com/naveen12334/Global-Earthquake-Tracker/blob/main/Data%20Pipeline/Pipeline%20Scheduling.png)
+
 
 
 📊 ***Power BI Dashboard***
