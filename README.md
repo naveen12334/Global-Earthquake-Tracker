@@ -67,6 +67,7 @@ An integrated pipeline from data ingestion to insightful reporting.
 
 ![Data Pipeline](https://github.com/naveen12334/Global-Earthquake-Tracker/blob/main/Data%20Pipeline/ETL%20Pipeline.png)
 
+🗓 *Pipeline Scheduling*
 
 ![Pipeline Scheduling](https://github.com/naveen12334/Global-Earthquake-Tracker/blob/main/Data%20Pipeline/Pipeline%20Scheduling.png)
 
