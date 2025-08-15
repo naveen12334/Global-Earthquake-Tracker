@@ -5,7 +5,6 @@ This end-to-end data analytics project leverages Microsoft Fabric to monitor and
 
 The solution spans the full data lifecycle — from data extraction and transformation to warehouse storage and interactive reporting.
 
-
 🔹 ***Process Overview***
 
 📥 *Data Extraction* – Pull earthquake event data from global seismic activity APIs and public datasets.
